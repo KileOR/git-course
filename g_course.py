@@ -12,3 +12,16 @@ print(name)
 
 name = "Jim"
 print(name)
+
+print(10/2)
+print(10//2)
+print(10%2)
+print(10**2)
+print(10//2)
+print(10%2)
+print(10**2)
+print(10//2)
+print(10%2)
+print(10**2)
+print(10//2)
+print(10%2)
